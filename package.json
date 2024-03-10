@@ -1,0 +1,22 @@
+{
+  "name": "teamyko7878",
+  "version": "1.0.0",
+  "description": "basic program for help",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svfrt22/teamyko7878.git"
+  },
+  "dependencies": {
+    "teachanta": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svfrt22/teamyko7878/issues"
+  },
+  "homepage": "https://github.com/svfrt22/teamyko7878#readme"
+}
